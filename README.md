@@ -8,6 +8,8 @@ version: 0.10.0
 HZero Front
 ===
 
+> 本项目fork自源仓库，仅供参考，不再维护
+
 本项目是基于`React`的构建页面的`JavaScript`UI库以及轻量级前端数据模型/状态管理框架`dva`, 并使用`webpack 4.x`构建本项目.
 
 本项目主要HZero平台前端核心组件/模块/服务,支持通过`lerna`工具,将本项目作为`monorepo`(多模块,多`package`管理模式)模式作为多模块项目的核心子项目
@@ -406,4 +408,4 @@ feat(hzero-front) im: 开发临时会话功能,优化消息类别处理
 
 ## Author
 
-@中台技术中心·HZero技术团队
+@HZero技术团队
