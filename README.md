@@ -8,7 +8,11 @@ version: 0.10.0
 HZero Front
 ===
 
-> 本项目fork自源仓库，仅供参考，不再维护
+## Author
+
+前汉得信息技术股份有限公司·Hzero技术团队·资深前端开发工程师 李俊 jun.li0220@outlook.com
+
+## 说明
 
 本项目是基于`React`的构建页面的`JavaScript`UI库以及轻量级前端数据模型/状态管理框架`dva`, 并使用`webpack 4.x`构建本项目.
 
